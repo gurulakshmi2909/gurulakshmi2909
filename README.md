@@ -12,7 +12,7 @@ I am passionate about building intelligent systems using Machine Learning and De
 
 A deep learning model that estimates haze density from images using **Gaussian Process Channel Attention (GPCA)** integrated with **HazDesNet**.
 
-🔗 Project Link: https://github.com/yourusername/hazdesnet-gpca
+🔗 Project Link: https://github.com/gurulakshmi2909/hazdesnet-gpca.git
 
 ### ✨ Key Features:
 
