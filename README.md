@@ -93,7 +93,7 @@ A deep learning model that estimates haze density from images using **Gaussian P
 
 📧 Email: gurukarthika718@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: https://github.com/gurulakshmi2909/gurulakshmi2909.git
 
 ---
 
